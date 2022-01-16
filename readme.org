@@ -1,4 +1,4 @@
-* <>About
+* About
 
   [[./screenshot.png]]
 
@@ -15,7 +15,7 @@
 
    https://youtu.be/Z5DO8GXbbrs
 
-* <>Installation  
+* Installation 
 
   Either clone this repo or just download 'org-cebter-headings.el'.
 

@@ -1,4 +1,4 @@
-* About
+* <>About
 
   [[./screenshot.png]]
 
@@ -6,12 +6,16 @@
   buffer. OBS: this is just an experiment, the purpose is not to propose a final
   product, but just to illustrate an idea.
 
-  It means there are probably lots of places where it will  break. I have put it
+  It means there are probably lots of places where it will break. I have put it
   together just as a small demo, to showcase it is possible to do text
   alignement in Emacs. With other words, this is not an application to use on
   every day basis.
 
-* Installation  
+  There is a small video showing how it works in practice:
+
+   https://youtu.be/Z5DO8GXbbrs
+
+* <>Installation  
 
   Either clone this repo or just download 'org-cebter-headings.el'.
 

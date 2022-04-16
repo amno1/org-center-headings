@@ -54,7 +54,7 @@
           (beg (line-beginning-position)))
       (if center
           (let* ((heading (buffer-substring beg end))
-                 (length (/ (string-pixel-width heading) 2)))
+                 (length (/ (shr-string-pixel-width heading) 2)))
             (put-text-property
              beg (1+ beg) 'display `(space :align-to (- center (,length)))))
         (remove-text-properties beg (1+ beg) '(display nil))))))

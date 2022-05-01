@@ -26,6 +26,9 @@
 ;; See readme.org for the discussion.
 
 ;;; Code:
+
+(require 'shr)
+
 (defgroup org-center-headings nil
   "Align org-headings on the screen."
   :prefix "org-center-"
